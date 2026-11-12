@@ -229,5 +229,3 @@ Customer Support and Operations representatives bring real-world usage signals b
 - Use these persona definitions to frame scenarios and sample interactions in the Skills Exercise.
 - Each persona can be used as a persona prompt for Copilot Spaces to shape role-specific guidance.
 - Teams can assign multiple responsibilities to a single person in smaller organizations, while larger teams should clearly separate ownership for speed, clarity, and accountability.
-
-"}],
